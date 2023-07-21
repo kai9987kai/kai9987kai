@@ -7,7 +7,7 @@
 kai9987kai/kai9987kai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/kai9987kai/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kai9987kai)](https://github.com/kai9987kai/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai9987kai&show_icons=true&theme=radical)
