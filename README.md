@@ -25,7 +25,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Anurag's GitHub stats](https://kai9987kai.pw/)
 
 
 
