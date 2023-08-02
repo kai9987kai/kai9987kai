@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 [My Website](https://kai9987kai.pw/)
 
 
-[My SketchFab](https://sketchfab.com/kai9987kai))
+[My SketchFab](https://sketchfab.com/kai9987kai)
 
 # Stats
 
