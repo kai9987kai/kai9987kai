@@ -13,6 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 # Links
 [My Website](https://kai9987kai.pw/)
+[My SketchFab]([https://kai9987kai.pw/](https://sketchfab.com/kai9987kai))
 
 # Stats
 
