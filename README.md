@@ -4,7 +4,7 @@ Kai9987kai, a passionate and dedicated developer, has been actively contributing
 - 👋 Hi, I’m @kai9987kai
 - 👀 I’m interested in sleep
 - 🌱 I’m currently learning, 3d design
-- 💞️ I’m looking to collaborate on python projects
+- 💞️ I’m looking to collaborate on Python projects and or anything else.
 
 <!---
 kai9987kai/kai9987kai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
