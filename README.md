@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-[My artstation](https://www.artstation.com/kai9987kai)
+[My artstation](https://www.Artstation.com/kai9987kai)
 
 
 
