@@ -1,10 +1,10 @@
 
 # About
 Kai9987kai, a passionate and dedicated developer, has been actively contributing to the open-source community on GitHub. With a keen interest in Python and Java.
-- 👋 Hi, I’m Kai Piper 
-- 👀 I’m interested in sleep
+- 👋 Hi, I’m Kai Piper, located in Bournemouth
+- 👀 I’m interested in a wide variety of things.
 - 🌱 HONS Game Design Student at Bournemouth University 
-- 💞️ I’m looking to collaborate on Python projects and or anything else.
+- 💞️ I’m looking to collaborate on projects and don't mind helping people with issues in their projects.
 
 <!---
 kai9987kai/kai9987kai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -43,7 +43,7 @@ GCSE Results – The Henry Beaufort School
 
 # Contact
 Email: kai9987kai@gmail.com
-
+Phone: 07342 295305
 
 
 
