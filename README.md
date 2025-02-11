@@ -1,9 +1,9 @@
 
 # About
 Kai9987kai, a passionate and dedicated developer, has been actively contributing to the open-source community on GitHub. With a keen interest in Python and Java.
-- 👋 Hi, I’m @kai9987kai
+- 👋 Hi, I’m Kai Piper 
 - 👀 I’m interested in sleep
-- 🌱 I’m currently learning, 3d design
+- 🌱 HONS Game Design Student at Bournemouth University 
 - 💞️ I’m looking to collaborate on Python projects and or anything else.
 
 <!---
