@@ -30,6 +30,7 @@ You can click the Preview link to take a look at your changes.
 # HONS Game Design Student at Bournemouth University in year 1
 
 # Eastleigh College
+<p align="center">
 •	UAL Level 3 Diploma and Extended Diploma in Creative Media Production and Technology - Focused on 3D modeling, animation, and game design at merit level
 
 
@@ -46,13 +47,13 @@ You can click the Preview link to take a look at your changes.
 
 
 8 GCSEs (Grades 4-6), including a 6 in Computer Science
+</p>
 
 
 # Contact
 <p align="center">
 Email: kai9987kai@gmail.com
-</p>
-<p align="center">
+  
 Phone: 07342 295305
 </p>
 
