@@ -1,6 +1,9 @@
 
 # About
+<p align="center">
 Kai9987kai, a passionate and dedicated developer called kai, has been actively contributing to the open-source community on GitHub, with a keen interest in Python and Java.
+</p>
+
 - 👋 Hi, I’m Kai Piper, located in Bournemouth
 - 👀 I’m interested in a wide variety of things.
 - 🌱 HONS Game Design Student at Bournemouth University 
