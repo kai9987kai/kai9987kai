@@ -7,7 +7,7 @@ Kai9987kai, a passionate and dedicated developer called kai, has been actively c
 - 💞️ I’m looking to collaborate on projects and don't mind helping people with issues in their projects.
 
 <!---
-kai9987kai/kai9987kai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kai9987kai/kai9987kai is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
