@@ -24,9 +24,8 @@ You can click the Preview link to take a look at your changes.
 
 
 # Stats
-<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai9987kai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-</p>
+
 
 # HONS Game Design Student at Bournemouth University in year 1
 
@@ -50,11 +49,13 @@ You can click the Preview link to take a look at your changes.
 
 
 # Contact
+<p align="center">
 Email: kai9987kai@gmail.com
-
+</p>
+<p align="center">
 
 Phone: 07342 295305
-
+</p>
 
 
 
