@@ -1,11 +1,11 @@
-<p align="center">
+
 # About
 Kai9987kai, a passionate and dedicated developer called kai, has been actively contributing to the open-source community on GitHub, with a keen interest in Python and Java.
 - 👋 Hi, I’m Kai Piper, located in Bournemouth
 - 👀 I’m interested in a wide variety of things.
 - 🌱 HONS Game Design Student at Bournemouth University 
 - 💞️ I’m looking to collaborate on projects and don't mind helping people with issues in their projects.
-</p>
+
 <!---
 kai9987kai/kai9987kai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -24,9 +24,9 @@ You can click the Preview link to take a look at your changes.
 
 
 # Stats
-
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai9987kai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+</p>
 
 # HONS Game Design Student at Bournemouth University in year 1
 
