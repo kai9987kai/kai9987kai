@@ -53,7 +53,6 @@ You can click the Preview link to take a look at your changes.
 Email: kai9987kai@gmail.com
 </p>
 <p align="center">
-
 Phone: 07342 295305
 </p>
 
