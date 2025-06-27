@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kai9987kai&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 
-# HONS Game Design Student at Bournemouth University in year 1
+# HONS Game Design Student at Bournemouth University in year 2
 
 # Eastleigh College
 
