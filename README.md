@@ -1,7 +1,7 @@
 
 # About
 <p align="center">
-kai9987kai, a passionate and dedicated developer called Kai Piper, has been actively contributing to the open-source community on GitHub, with a keen interest in Python and Java.
+Kai9987kai, a passionate and dedicated developer called Kai Piper, has been actively contributing to the open-source community on GitHub, with a keen interest in Python and Java.
 </p>
 
 - 👋 Hi, I’m Kai Piper, located in Winchester.
@@ -61,7 +61,7 @@ Email: kai9987kai@gmail.com
 Phone: 07342 295305
 </p>
 
-
+Looking for part-time or full-time job roles...
 
 
 
