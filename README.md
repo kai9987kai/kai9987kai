@@ -1,19 +1,27 @@
-<!-- HEADER -->
+<!-- ========================================= -->
+<!-- KAI9987KAI LABS – FUTURISTIC PROFILE -->
+<!-- ========================================= -->
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Kai9987kai+Labs;AI+%7C+Simulation+%7C+Game+Development;Creative+Technology+Research;Open+Source+Developer;Bournemouth+University+Games+Design" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kai9987kai%20Labs&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3500&color=00F7FF&center=true&vCenter=true&width=900&lines=Creative+Technology+Research+Lab;AI+Systems+%7C+Simulations+%7C+Game+Development;Procedural+Worlds+and+Complex+Systems;Open+Source+Developer;BA+Games+Design+Student+at+Bournemouth+University"/>
 
 </p>
 
 ---
 
-# 🧠 Kai Piper | kai9987kai
+# 🧠 Kai Piper
 
 <p align="center">
 
-Creative technologist building experimental software across  
-**AI systems • simulations • game development • procedural worlds**
+Creative technologist building experimental systems across  
+**AI • simulations • procedural worlds • game development • interactive tools**
 
 </p>
 
@@ -24,19 +32,19 @@ Creative technologist building experimental software across
 <p align="center">
 
 <a href="https://kai9987kai.co.uk">
-<img src="https://img.shields.io/badge/Website-kai9987kai.co.uk-blue?style=for-the-badge&logo=googlechrome">
+<img src="https://img.shields.io/badge/Website-kai9987kai.co.uk-blue?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 <a href="https://github.com/kai9987kai">
-<img src="https://img.shields.io/badge/GitHub-kai9987kai-black?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-kai9987kai-black?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://sketchfab.com/kai9987kai">
-<img src="https://img.shields.io/badge/Sketchfab-3D%20Portfolio-orange?style=for-the-badge&logo=sketchfab">
+<img src="https://img.shields.io/badge/SketchFab-3D%20Models-orange?style=for-the-badge&logo=sketchfab"/>
 </a>
 
 <a href="https://www.artstation.com/kai9987kai">
-<img src="https://img.shields.io/badge/ArtStation-Portfolio-blue?style=for-the-badge&logo=artstation">
+<img src="https://img.shields.io/badge/ArtStation-Portfolio-blue?style=for-the-badge&logo=artstation"/>
 </a>
 
 </p>
@@ -45,47 +53,22 @@ Creative technologist building experimental software across
 
 # 👨‍💻 About
 
-I’m **Kai Piper**, a **BA (Hons) Games Design student at Bournemouth University** and an open-source developer exploring the intersection of:
+I'm **Kai Piper**, a **BA (Hons) Games Design student at Bournemouth University**.
 
-- Artificial Intelligence  
-- multi-agent simulation systems  
+My GitHub explores research areas including:
+
+- artificial intelligence systems  
+- multi-agent simulations  
 - procedural environments  
-- interactive visualisation  
-- creative coding  
-- game development pipelines  
+- reinforcement learning experiments  
+- creative coding tools  
+- game development technology  
 
-My projects often experiment with **complex systems and emergent behaviour**.
-
----
-
-# 🎓 Education
-
-### Bournemouth University
-BA (Hons) Games Design — Year 2
-
-Focus:
-
-- game systems design  
-- gameplay mechanics  
-- 3D asset modelling  
-- technical art workflows  
+Many projects experiment with **emergent behaviour and complex digital ecosystems**.
 
 ---
 
-### Eastleigh College
-
-UAL Level 3 Diploma & Extended Diploma  
-Creative Media Production & Technology
-
-Specialisation:
-
-- 3D modelling  
-- animation  
-- game design  
-
----
-
-# 🧰 Technology Stack
+# 🧰 Tech Stack
 
 ### Programming
 
@@ -101,9 +84,9 @@ Specialisation:
 ### Game Development
 
 ![Unity](https://img.shields.io/badge/Unity-black?logo=unity&style=for-the-badge)
-![Unreal Engine](https://img.shields.io/badge/Unreal-black?logo=unrealengine&style=for-the-badge)
+![Unreal](https://img.shields.io/badge/Unreal%20Engine-black?logo=unrealengine&style=for-the-badge)
 
-### 3D Software
+### 3D Tools
 
 ![Maya](https://img.shields.io/badge/Maya-blue?style=for-the-badge)
 ![Blender](https://img.shields.io/badge/Blender-orange?logo=blender&style=for-the-badge)
@@ -111,36 +94,23 @@ Specialisation:
 
 ---
 
-# 🚀 Project Research Areas
+# 🚀 Featured Projects
 
-Projects on my GitHub explore:
+<p align="center">
 
-- AI-driven environments  
-- reinforcement learning simulations  
-- procedural terrain generation  
-- interactive visualisation tools  
-- simulation of complex systems  
-- experimental game mechanics  
+<a href="https://github.com/kai9987kai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kai9987kai&repo=NeuroPulse-CableLab&theme=tokyonight"/>
+</a>
 
----
+<a href="https://github.com/kai9987kai">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kai9987kai&repo=Hyper-EvoBlob-Simulation&theme=tokyonight"/>
+</a>
 
-# ⭐ Featured Projects
-
-### AI Simulation Systems
-Repositories exploring multi-agent environments and emergent behaviour.
-
-### Procedural Environment Tools
-Tools for generating dynamic digital environments.
-
-### Creative Web Experiments
-Interactive browser-based visualisations and tools.
-
-### 3D Asset Development
-Models and pipelines used in game design projects.
+</p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -192,6 +162,18 @@ Models and pipelines used in game design projects.
 
 ---
 
+# ⌨️ Coding Activity (Optional)
+
+If you connect **WakaTime**, this section will auto update.
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=kai9987kai&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 🌍 Portfolio
 
 Website  
@@ -207,13 +189,13 @@ https://www.artstation.com/kai9987kai
 
 # 🤝 Collaboration
 
-I’m interested in collaborating on:
+Interested in collaborating on:
 
-- AI tools
-- simulation systems
-- game development
-- experimental software
-- creative coding
+- AI systems
+- simulation environments
+- procedural generation
+- game technology
+- experimental creative tools
 
 ---
 
@@ -237,4 +219,8 @@ Phone
 
 ---
 
-⭐ Follow my GitHub for experimental projects and research into **AI-driven systems, simulations and game technology**.
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+</p>
