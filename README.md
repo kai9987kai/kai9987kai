@@ -162,7 +162,7 @@ Many projects experiment with **emergent behaviour and complex digital ecosystem
 
 ---
 
-# ⌨️ Coding Activity (Optional)
+# ⌨️ Coding Activity 
 
 If you connect **WakaTime**, this section will auto update.
 
