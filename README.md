@@ -1,200 +1,220 @@
-
-You can copy this directly into your **`kai9987kai/kai9987kai` profile repository README.md**.
-
----
-
-# 👋 Kai Piper (kai9987kai)
+# 👋 Kai Piper | kai9987kai
 
 <p align="center">
-Creative technologist, game design student, and open-source developer exploring the intersection of  
-<strong>AI, simulation systems, 3D modelling, and interactive web technologies.</strong>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=4000&color=00E1FF&center=true&vCenter=true&width=900&lines=Creative+Technologist;Game+Design+Student+at+Bournemouth+University;AI+%7C+Simulation+Systems+%7C+3D+Modelling;Open+Source+Developer;Building+Experimental+Digital+Projects" />
+
 </p>
 
 <p align="center">
-<a href="https://kai9987kai.co.uk">🌐 Website</a> •
-<a href="https://github.com/kai9987kai">💻 GitHub</a> •
-<a href="https://sketchfab.com/kai9987kai">🎨 SketchFab</a> •
-<a href="https://www.artstation.com/kai9987kai">🖌 ArtStation</a>
+
+<a href="https://kai9987kai.co.uk">
+<img src="https://img.shields.io/badge/Website-kai9987kai.co.uk-blue?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="https://github.com/kai9987kai">
+<img src="https://img.shields.io/badge/GitHub-kai9987kai-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://sketchfab.com/kai9987kai">
+<img src="https://img.shields.io/badge/SketchFab-3D%20Models-orange?style=for-the-badge&logo=sketchfab"/>
+</a>
+
+<a href="https://www.artstation.com/kai9987kai">
+<img src="https://img.shields.io/badge/ArtStation-Portfolio-blue?style=for-the-badge&logo=artstation"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-Hello! I'm **Kai Piper**, an open-source developer and **BA (Hons) Games Design student at Bournemouth University**.
+Hi, I'm **Kai Piper**, an open-source developer and **BA (Hons) Games Design student at Bournemouth University**.
 
-I enjoy building experimental and creative software projects that combine:
+I enjoy building experimental projects that combine:
 
-* Artificial Intelligence
-* Simulation systems
-* Game development
-* 3D modelling and rendering
-* Interactive web applications
-* Procedural generation
+- 🤖 Artificial Intelligence
+- 🧠 Cognitive & simulation systems
+- 🎮 Game development
+- 🌍 Procedural environments
+- 🖥 Interactive web applications
+- 🎨 3D modelling pipelines
 
-Many of my projects explore **advanced technical concepts**, including multi-agent systems, AI-driven environments, and interactive visualization tools.
+Many of my projects explore **complex systems, simulations, and AI-driven tools**.
 
-I’m always interested in **collaborating on innovative projects** and helping others solve technical challenges.
+I enjoy collaborating on creative and technically challenging projects.
 
 ---
 
 # 🎓 Education
 
-## Bournemouth University
-
+### Bournemouth University  
 **BA (Hons) Games Design — Year 2**
 
-Focus areas include:
+Areas of study:
 
-* Game development workflows
-* 3D asset modelling
-* interactive systems design
-* gameplay mechanics
-* technical art pipelines
+- Game systems design
+- 3D asset modelling
+- gameplay mechanics
+- interactive digital environments
+- technical art workflows
 
 ---
 
-## Eastleigh College
+### Eastleigh College
 
-UAL **Level 3 Diploma & Extended Diploma**
+UAL **Level 3 Diploma & Extended Diploma**  
 Creative Media Production & Technology
 
-Specialisation:
+Focus:
 
-* 3D modelling
-* animation
-* game design
+- 3D modelling
+- animation
+- game design
 
-Additional qualifications:
+Additional:
 
-* **TQUK Level 1 Customer Service**
-* **TQUK Level 1 Award in Mental Health Awareness**
-
----
-
-## The Henry Beaufort School
-
-**8 GCSEs (Grades 4-6)**
-Including **Grade 6 in Computer Science**
+- TQUK Level 1 Customer Service  
+- TQUK Level 1 Mental Health Awareness
 
 ---
 
-# 💻 Technical Skills
+### The Henry Beaufort School
+
+8 GCSEs (Grades 4-6)
+
+Including **Grade 6 Computer Science**
+
+---
+
+# 🧠 Technical Skills
 
 ### Programming
 
-* Python
-* Java
-* JavaScript
-* HTML / CSS
-
-### Game Development
-
-* Unity
-* Procedural generation
-* Gameplay systems
-* Simulation environments
-
-### 3D & Creative Tools
-
-* Autodesk Maya
-* Blender
-* Mudbox
-* Unreal Engine (basic workflows)
-
-### Web Development
-
-* Interactive web apps
-* HTML/CSS/JS tooling
-* GitHub Pages deployment
-
-### AI & Simulation Interests
-
-* Multi-agent simulations
-* Reinforcement learning concepts
-* Procedural environments
-* Generative systems
+![Python](https://img.shields.io/badge/Python-blue?logo=python&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?logo=openjdk&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-orange?logo=html5&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&style=for-the-badge)
 
 ---
 
-# 🔬 Areas of Interest
+### Game Development
 
-I enjoy exploring projects involving:
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&style=for-the-badge)
+![Unreal](https://img.shields.io/badge/Unreal%20Engine-black?logo=unrealengine&style=for-the-badge)
 
-* 🤖 Artificial Intelligence systems
-* 🌍 Procedural world generation
-* 🎮 Game mechanics & simulation
-* 🧠 Cognitive and experimental tech
-* 🖥 Creative coding & visualisation
-* 🧩 Complex systems and emergent behaviour
+---
+
+### 3D Tools
+
+![Maya](https://img.shields.io/badge/Autodesk%20Maya-blue?style=for-the-badge)
+![Blender](https://img.shields.io/badge/Blender-orange?logo=blender&style=for-the-badge)
+![Mudbox](https://img.shields.io/badge/Mudbox-grey?style=for-the-badge)
+
+---
+
+# 🚀 Project Focus
+
+Some of the technical areas I explore in my repositories:
+
+- AI-driven simulations
+- procedural environments
+- reinforcement learning concepts
+- interactive visualization tools
+- game mechanics experimentation
+- web-based technical tools
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kai9987kai&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai9987kai&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kai9987kai&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai9987kai&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
 </p>
 
 ---
 
-# 🌐 Portfolio & Platforms
+# 🏆 GitHub Achievements
 
-You can find more of my work here:
+<p align="center">
 
-* 🌐 Website
-  [https://kai9987kai.co.uk/](https://kai9987kai.co.uk/)
+<img src="https://github-profile-trophy.vercel.app/?username=kai9987kai&theme=tokyonight&no-frame=true&margin-w=15"/>
 
-* 🎨 SketchFab (3D Models)
-  [https://sketchfab.com/kai9987kai](https://sketchfab.com/kai9987kai)
+</p>
 
-* 🖌 ArtStation
-  [https://www.artstation.com/kai9987kai](https://www.artstation.com/kai9987kai)
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kai9987kai&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+
+</p>
+
+---
+
+# 🌐 Portfolio
+
+### Website
+https://kai9987kai.co.uk
+
+### SketchFab
+https://sketchfab.com/kai9987kai
+
+### ArtStation
+https://www.artstation.com/kai9987kai
 
 ---
 
 # 🤝 Collaboration
 
-I’m open to collaborating on projects involving:
+I'm interested in collaborating on projects involving:
 
-* Game development
-* AI tools
-* Simulation environments
-* creative software
-* open-source experimentation
+- AI systems
+- simulation environments
+- game development
+- experimental software tools
+- creative coding
 
-If you have an interesting project or need help solving a technical problem, feel free to reach out.
+If you have an interesting project, feel free to reach out.
 
 ---
 
 # 📫 Contact
 
-📧 Email
-[kai9987kai@gmail.com](mailto:kai9987kai@gmail.com)
+Email  
+kai9987kai@gmail.com
 
-📱 Phone
+Phone  
 07342 295305
 
 ---
 
-⭐ If you find my work interesting, feel free to **follow or star projects**!
+# 👀 Visitor Counter
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=kai9987kai&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
 
 ---
 
-## Optional Upgrade (Highly Recommended)
-
-If you'd like, I can also create a **much more advanced GitHub profile README with:**
-
-* animated **typing banner**
-* **visitor counter**
-* **3D contribution graph**
-* **tech badges**
-* **project showcase cards**
-* **activity graph**
-* **GitHub trophies**
-* **AI / simulation themed design**
-
+⭐ **Follow my GitHub to see experimental projects, simulations, and creative tools.**
