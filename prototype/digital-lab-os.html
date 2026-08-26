@@ -1,0 +1,135 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Digital Lab OS 2026</title>
+<style>
+:root{color-scheme:dark;--bg:#090c12;--panel:#111722;--card:#161e2b;--line:#293246;--text:#edf4ff;--muted:#98a7bd;--accent:#72e3ff;--accent2:#ae82ff;--good:#65e7a8;--warn:#ffd166;--bad:#ff7d8d}*{box-sizing:border-box}body{margin:0;background:radial-gradient(circle at 20% 0,#152033 0,#090c12 42%);color:var(--text);font:15px/1.5 Inter,ui-sans-serif,system-ui,sans-serif}button,input,select,textarea{font:inherit}.shell{max-width:1180px;margin:auto;padding:24px}.top{display:flex;gap:18px;align-items:flex-start;justify-content:space-between;flex-wrap:wrap}.eyebrow{color:var(--accent);font-size:12px;letter-spacing:.14em;text-transform:uppercase}.top h1{margin:.2rem 0;font-size:clamp(30px,6vw,64px);line-height:.95}.top p{max-width:750px;color:var(--muted);margin:.8rem 0}.badge{display:inline-flex;padding:7px 11px;border:1px solid var(--line);border-radius:999px;color:var(--muted);background:#0d121b}.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:14px;margin-top:20px}.panel{background:linear-gradient(180deg,#121925,#0e141e);border:1px solid var(--line);border-radius:16px;padding:16px;min-width:0}.wide{grid-column:span 8}.side{grid-column:span 4}.full{grid-column:1/-1}.panel h2{font-size:15px;margin:0 0 12px}.modules{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.module{padding:12px;border:1px solid var(--line);border-radius:12px;background:var(--card);cursor:pointer}.module strong{display:block}.module small{color:var(--muted)}.module.active{outline:2px solid color-mix(in srgb,var(--accent) 65%,transparent)}.bar{height:8px;background:#080b11;border-radius:99px;overflow:hidden;margin-top:8px}.bar i{display:block;height:100%;background:linear-gradient(90deg,var(--accent),var(--accent2));width:50%}.stepper{display:grid;grid-template-columns:repeat(6,1fr);gap:6px}.step{padding:8px;border:1px solid var(--line);border-radius:10px;text-align:center;color:var(--muted);font-size:12px}.step.on{color:var(--text);border-color:var(--accent)}.kpis{display:grid;grid-template-columns:repeat(3,1fr);gap:10px}.kpi{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:12px}.kpi b{font-size:22px}.kpi span{display:block;color:var(--muted);font-size:12px}.form{display:grid;gap:10px}.form label{display:grid;gap:5px;color:var(--muted);font-size:12px}.form input,.form select,.form textarea{width:100%;background:#0a1019;color:var(--text);border:1px solid var(--line);border-radius:10px;padding:10px}.form textarea{min-height:84px;resize:vertical}.row{display:flex;gap:8px;flex-wrap:wrap}.btn{border:1px solid var(--line);background:#182337;color:var(--text);border-radius:10px;padding:9px 12px;cursor:pointer}.btn.primary{background:linear-gradient(90deg,#143c53,#302653);border-color:#38667b}.evidence{display:grid;gap:8px}.ev{display:grid;grid-template-columns:1fr auto;gap:10px;align-items:center;padding:10px;border:1px solid var(--line);border-radius:10px;background:var(--card)}.state{font-size:11px;padding:5px 8px;border-radius:99px;border:1px solid currentColor}.supported{color:var(--good)}.suggestive{color:var(--warn)}.conflicted{color:var(--bad)}.ongoing{color:var(--accent)}.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}.output{white-space:pre-wrap;background:#080b11;border:1px solid var(--line);border-radius:12px;padding:12px;min-height:120px;color:#cbd8e8}.sliderLine{display:grid;grid-template-columns:120px 1fr 70px;gap:10px;align-items:center;margin:9px 0}.signal{display:flex;gap:8px;align-items:center}.dot{width:9px;height:9px;border-radius:99px;background:var(--muted)}.dot.good{background:var(--good)}.dot.warn{background:var(--warn)}.dot.bad{background:var(--bad)}.footer{color:var(--muted);font-size:12px;margin:18px 0}.tabs{display:flex;gap:8px;flex-wrap:wrap;margin-top:18px}.tab{border:1px solid var(--line);background:#0d131d;color:var(--muted);border-radius:999px;padding:7px 11px;cursor:pointer}.tab.active{color:var(--text);border-color:var(--accent)}.view{display:none}.view.active{display:contents}@media(max-width:800px){.wide,.side{grid-column:1/-1}.modules{grid-template-columns:1fr}.stepper{grid-template-columns:repeat(3,1fr)}.kpis{grid-template-columns:1fr}.sliderLine{grid-template-columns:1fr}.top h1{font-size:44px}}
+</style>
+</head>
+<body>
+<main class="shell" id="app">
+  <section class="top">
+    <div>
+      <div class="eyebrow">Proof-oriented R&D operating system</div>
+      <h1>Digital Lab OS<br>2026</h1>
+      <p>One environment for local AI, verification, browser research, simulations, 3D/technical art, utilities, portfolio evidence and bio/neuro research. The system separates observations, predictions and unsupported claims.</p>
+      <span class="badge">Explore → Build → Measure → Verify → Present → Archive</span>
+    </div>
+    <div class="badge mono" id="clock">LOCAL LAB / READY</div>
+  </section>
+
+  <nav class="tabs" aria-label="Views">
+    <button class="tab active" data-view="mission">Mission Control</button>
+    <button class="tab" data-view="evidence">Evidence Gate</button>
+    <button class="tab" data-view="compute">Local AI Lab</button>
+    <button class="tab" data-view="compose">Project Composer</button>
+  </nav>
+
+  <section class="grid view active" data-panel="mission">
+    <article class="panel wide">
+      <h2>System modules</h2>
+      <div class="modules" id="modules"></div>
+    </article>
+    <article class="panel side">
+      <h2>Operating loop</h2>
+      <div class="stepper">
+        <div class="step on">Explore</div><div class="step on">Build</div><div class="step on">Measure</div><div class="step">Verify</div><div class="step">Present</div><div class="step">Archive</div>
+      </div>
+      <div style="margin-top:14px" class="signal"><i class="dot good"></i><span>Local-first path available</span></div>
+      <div class="signal"><i class="dot good"></i><span>Provenance required</span></div>
+      <div class="signal"><i class="dot warn"></i><span>External validation pending</span></div>
+    </article>
+    <article class="panel full">
+      <h2>Lab readiness</h2>
+      <div class="kpis">
+        <div class="kpi"><b id="moduleCount">7</b><span>connected modules</span></div>
+        <div class="kpi"><b id="proofScore">72%</b><span>proof readiness</span></div>
+        <div class="kpi"><b>0</b><span>claims allowed without provenance</span></div>
+      </div>
+    </article>
+  </section>
+
+  <section class="grid view" data-panel="evidence">
+    <article class="panel wide">
+      <h2>NexusMind Evidence Gate</h2>
+      <div class="evidence" id="evidenceList"></div>
+      <div class="row" style="margin-top:10px">
+        <button class="btn" id="addEvidence">Add evidence item</button>
+        <button class="btn" id="cycleEvidence">Cycle weakest state</button>
+      </div>
+    </article>
+    <article class="panel side">
+      <h2>Conclusion state</h2>
+      <div class="kpi"><b id="conclusion">SUGGESTIVE</b><span id="conclusionNote">Promising, not established.</span></div>
+      <p style="color:var(--muted)">Internal model confidence never upgrades evidence automatically. Registered trials remain <strong>ONGOING</strong> until results exist.</p>
+    </article>
+  </section>
+
+  <section class="grid view" data-panel="compute">
+    <article class="panel wide">
+      <h2>Supermix Local AI feasibility estimator</h2>
+      <div class="sliderLine"><label for="params">Parameters</label><input id="params" type="range" min="20" max="3000" value="270" step="10"><output id="paramsOut">270M</output></div>
+      <div class="sliderLine"><label for="bits">Weight precision</label><input id="bits" type="range" min="2" max="16" value="4" step="1"><output id="bitsOut">4-bit</output></div>
+      <div class="sliderLine"><label for="ram">Available RAM</label><input id="ram" type="range" min="256" max="16384" value="4096" step="256"><output id="ramOut">4096MB</output></div>
+      <div class="sliderLine"><label for="gpu">Acceleration</label><select id="gpu"><option value="1">WASM / CPU</option><option value="1.8">WebGPU</option><option value="2.2">Native GPU/NPU</option></select><span></span></div>
+      <div class="bar"><i id="fitBar"></i></div>
+    </article>
+    <article class="panel side">
+      <h2>Estimate</h2>
+      <div class="kpi"><b id="memory">135 MB</b><span>approx. raw weight memory</span></div>
+      <div class="kpi" style="margin-top:10px"><b id="fit">GOOD FIT</b><span id="fitNote">Leaves room for runtime + KV cache.</span></div>
+      <p style="color:var(--muted)">This is deliberately a rough engineering estimator, not a benchmark. Real viability depends on architecture, context length, kernels, cache format and browser/device limits.</p>
+    </article>
+  </section>
+
+  <section class="grid view" data-panel="compose">
+    <article class="panel wide">
+      <h2>Research / build protocol composer</h2>
+      <form class="form" id="composer">
+        <label>Domain<select id="domain"><option>Local AI</option><option>Verification / epistemics</option><option>Browser research</option><option>Simulation / engineering</option><option>3D / technical art</option><option>Bio / neuro research</option><option>Utility software</option></select></label>
+        <label>Question or goal<textarea id="question">Can a smaller local model outperform a larger baseline on a tightly defined task without losing reliability?</textarea></label>
+        <label>Primary evidence<select id="primary"><option>Fresh benchmark</option><option>Human RCT / meta-analysis</option><option>Registered clinical trial</option><option>Deterministic test suite</option><option>Reproducible simulation</option><option>Source snapshot + quote anchors</option><option>Portfolio case-study proof</option></select></label>
+        <label><input id="localFirst" type="checkbox" checked style="width:auto"> Prefer local-first execution and graceful fallback</label>
+        <button class="btn primary" type="submit">Generate protocol</button>
+      </form>
+    </article>
+    <article class="panel side">
+      <h2>Protocol output</h2>
+      <div class="output mono" id="protocol"></div>
+    </article>
+  </section>
+
+  <p class="footer">Design rule: observed ≠ inferred ≠ predicted. Turn the archive into a lab. Turn the lab into proof.</p>
+</main>
+<script>
+(()=>{
+const root=document.getElementById('app');
+const data=[
+['Supermix Model Foundry','Train, route and benchmark small local models.',78],
+['NexusMind Evidence Gate','Explicit supported / suggestive / conflicted / abstain states.',88],
+['OctoBrowse Research Engine','Snapshots, quote anchors, provenance and offline research.',82],
+['Simulation Forge','Engineering, biological and systems simulations with falsification tests.',73],
+['3D / Technical Art Lab','Materials, modelling, visualization and browser 3D proof.',69],
+['Bio / Neuro Research Bench','Literature, trials, mechanism graphs and safe synthetic neurotech models.',76],
+['Portfolio Compiler','Turns verified artefacts into case studies and public proof.',64]
+];
+const mods=document.getElementById('modules');
+data.forEach((m,i)=>{const el=document.createElement('div');el.className='module'+(i===0?' active':'');el.innerHTML=`<strong>${m[0]}</strong><small>${m[1]}</small><div class="bar"><i style="width:${m[2]}%"></i></div>`;el.addEventListener('click',()=>{mods.querySelectorAll('.module').forEach(x=>x.classList.remove('active'));el.classList.add('active')});mods.appendChild(el)});
+root.querySelectorAll('.tab').forEach(btn=>btn.addEventListener('click',()=>{root.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));root.querySelectorAll('.view').forEach(x=>x.classList.remove('active'));btn.classList.add('active');root.querySelector(`[data-panel="${btn.dataset.view}"]`).classList.add('active')}));
+let ev=[['WebLLM/browser local inference feasibility','SUPPORTED'],['Closed-loop stimulation improves consistency','ONGOING'],['Internal confidence equals correctness','CONFLICTED'],['Small task-specific models can beat larger generic baselines','SUGGESTIVE']];
+const list=document.getElementById('evidenceList');
+function cls(s){return s.toLowerCase().replaceAll(' ','-')}
+function renderEv(){list.innerHTML='';ev.forEach(([t,s])=>{let e=document.createElement('div');e.className='ev';e.innerHTML=`<span>${t}</span><span class="state ${cls(s)}">${s}</span>`;list.appendChild(e)});let states=ev.map(x=>x[1]);let c=states.includes('CONFLICTED')?'CONFLICTED':states.includes('SUGGESTIVE')||states.includes('ONGOING')?'SUGGESTIVE':'SUPPORTED';document.getElementById('conclusion').textContent=c;document.getElementById('conclusionNote').textContent=c==='SUPPORTED'?'Multiple suitable evidence items agree.':c==='CONFLICTED'?'Credible evidence disagrees; do not collapse to one answer.':'Promising, incomplete, or awaiting results.'}
+renderEv();
+document.getElementById('addEvidence').addEventListener('click',()=>{ev.push(['New unreviewed source','SUGGESTIVE']);renderEv()});
+document.getElementById('cycleEvidence').addEventListener('click',()=>{let order=['ONGOING','SUGGESTIVE','SUPPORTED'];let idx=ev.findIndex(x=>x[1]==='ONGOING');if(idx<0)idx=ev.findIndex(x=>x[1]==='SUGGESTIVE');if(idx>=0){let p=order.indexOf(ev[idx][1]);ev[idx][1]=order[Math.min(p+1,order.length-1)];renderEv()}});
+const p=document.getElementById('params'),b=document.getElementById('bits'),r=document.getElementById('ram'),g=document.getElementById('gpu');
+function estimate(){let params=+p.value,bits=+b.value,ram=+r.value,acc=+g.value;let mem=params*1e6*bits/8/1024/1024;let reserve=mem*1.8;let ratio=ram/reserve*acc;document.getElementById('paramsOut').textContent=params+'M';document.getElementById('bitsOut').textContent=bits+'-bit';document.getElementById('ramOut').textContent=ram+'MB';document.getElementById('memory').textContent=Math.round(mem)+' MB';let fit=ratio>3?'EXCELLENT':ratio>1.5?'GOOD FIT':ratio>1?'TIGHT':'POOR FIT';document.getElementById('fit').textContent=fit;document.getElementById('fitNote').textContent=ratio>1.5?'Leaves room for runtime + KV cache.':ratio>1?'May work with short context and careful kernels.':'Model/runtime likely exceeds the chosen budget.';document.getElementById('fitBar').style.width=Math.max(4,Math.min(100,ratio*32))+'%'}[p,b,r,g].forEach(x=>x.addEventListener('input',estimate));estimate();
+const form=document.getElementById('composer');function protocol(){let d=document.getElementById('domain').value,q=document.getElementById('question').value.trim()||'Define a falsifiable question',e=document.getElementById('primary').value,l=document.getElementById('localFirst').checked;document.getElementById('protocol').textContent=`MISSION: ${d}\nQUESTION: ${q}\n\n1. EXPLORE — collect the minimum source set and record provenance.\n2. BUILD — create the smallest testable artefact. ${l?'Prefer local execution; declare fallback path.':'External execution allowed, but retain reproducibility.'}\n3. MEASURE — primary evidence: ${e}. Record failures and null results.\n4. VERIFY — separate observation from inference; seek a counterexample.\n5. PRESENT — publish claim + evidence + limitations, not just screenshots.\n6. ARCHIVE — freeze source IDs, versions, parameters and outputs.\n\nSTOP CONDITION: if evidence is insufficient or contradictory, label the conclusion ABSTAIN / CONFLICTED rather than forcing certainty.`}form.addEventListener('submit',e=>{e.preventDefault();protocol()});protocol();
+let score=Math.round(data.reduce((a,x)=>a+x[2],0)/data.length);document.getElementById('proofScore').textContent=score+'%';
+})();
+</script>
+</body>
+</html>
